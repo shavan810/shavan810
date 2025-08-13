@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Shavan D Singh
-A MCA student || Mern || Kafka Admin from India
+A MCA student || Mern
 
 Email Me 👉 ✉️  creative.shavan@gmail.com — For collaboration or projects 😊😊
 
