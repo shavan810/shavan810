@@ -8,7 +8,7 @@ Email Me 👉 ✉️  creative.shavan@gmail.com — For collaboration or project
 - 👯 I’m looking to collaborate on: MERN stack projects, real-time applications, and open-source contributions
 - 🤔 I’m looking for: Job in a reputed company
 - 💬 Ask me about: Web development (MERN), API integration, Socket.io, and database design
-- 📫 How to reach me: creative.shavan@gmail.com
+- 📫 How to reach me: creative.shavan@gmail.com [if you need realtimechataap source-code msg me ...!]
 - ⚡ Fun fact: I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
