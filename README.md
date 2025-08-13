@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Shavan D Singh
-**A MCA student || Mern || Kafka Admin from India**
+A MCA student || Mern || Kafka Admin from India
 
 Email Me 👉 ✉️  creative.shavan@gmail.com — For collaboration or projects 😊😊
 
@@ -7,9 +7,9 @@ Email Me 👉 ✉️  creative.shavan@gmail.com — For collaboration or project
 - 🌱 I’m currently learning: Master of Computer Applications at Sandip University
 - 👯 I’m looking to collaborate on: MERN stack projects, real-time applications, and open-source contributions
 - 🤔 I’m looking for: Job in a reputed company
-- 💬 **Ask me about: Web development (MERN), API integration, Socket.io, and database design
-- 📫 **How to reach me: creative.shavan@gmail.com
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 💬 Ask me about: Web development (MERN), API integration, Socket.io, and database design
+- 📫 How to reach me: creative.shavan@gmail.com
+- ⚡ Fun fact: I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Shavan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz_me_sa1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shavan-singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:creative.shavan@gmail.com) 
