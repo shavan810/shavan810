@@ -12,7 +12,7 @@ Email Me 👉 ✉️  creative.shavan@gmail.com — For collaboration or project
 - ⚡ Fun fact: I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge&logoWidth=40)]([https://facebook.com/Shavan](https://www.facebook.com/shavan.singh.197977/))
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge&logoWidth=40)](https://www.facebook.com/shavan.singh.197977/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge&logoWidth=40)](https://instagram.com/itz_me_sa1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge&logoWidth=40)](https://linkedin.com/in/shavan-singh)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge&logoWidth=40)](mailto:creative.shavan@gmail.com)
