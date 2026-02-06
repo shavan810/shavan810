@@ -1,15 +1,28 @@
-# 💫 Hi 👋, I'm Shavan D Singh
-A MCA student || Mern
+💫 Hi 👋, I'm Shavan D Singh
 
-Email Me 👉 ✉️  creative.shavan@gmail.com — For collaboration or projects 😊😊
+A MCA student || MERN Developer 🚀
 
-- 🔭 I’m currently working on: Real-time-chat-app [https://realtimechatingapp-ggoc.onrender.com/]
-- 🌱 I’m currently learning: Master of Computer Applications at Sandip University
-- 👯 I’m looking to collaborate on: MERN stack projects, real-time applications, and open-source contributions
-- 🤔 I’m looking for: Job in a reputed company
-- 💬 Ask me about: Web development (MERN), API integration, Socket.io, and database design
-- 📫 How to reach me: creative.shavan@gmail.com OR ["https://shavan810.github.io/my-portfolio/"] [if you need realtimechataap source-code msg me ...!]
-- ⚡ Fun fact: I Love Tech and Tech Love Me
+Email Me 👉 ✉️ creative.shavan@gmail.com
+ — For collaboration or projects 😊😊
+
+🌱 I’m currently learning: Master of Computer Applications at Sandip University
+
+💼 I’m currently working as a Software Engineer Intern at Sumago Infotech Pvt. Ltd .
+
+Major roles: Documentation, UI/UX design using Figma, and learning MERN stack from scratch to advanced
+
+👯 I’m looking to collaborate on: MERN stack projects, real-time applications, and open-source contributions
+
+🤔 I’m looking for: Job in a reputed company
+
+💬 Ask me about: Web development (MERN), API integration, Socket.io, and database design
+
+📫 How to reach me: creative.shavan@gmail.com
+ OR ["https://shavan810.github.io/my-portfolio/
+"]
+(If you need real-time chat app source code, message me...!)
+
+⚡ Fun fact: I Love Tech and Tech Love Me 😄
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge&logoWidth=40)](https://www.facebook.com/shavan.singh.197977/)
